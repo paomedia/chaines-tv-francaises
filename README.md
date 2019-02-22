@@ -1,4 +1,4 @@
 Logos TNT
 ============
 
-!(screenshot.png)
+![](screenshot.png)
